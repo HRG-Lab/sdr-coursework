@@ -23,3 +23,8 @@ Lesson Outline
  * [Lesson 8](./Lesson8) - ???
  * [Lesson 9](./Lesson9) - ???
  * [Lesson 10](./Lesson10) - ???
+ 
+ ------- SRD BF/DF -------
+1. Analog vs Digital Techniques for Beamforming (BF) and Direction Finding (DF)
+2. Overview of Software Defined Radios for Digital BF/DF Aplciations
+3. 
