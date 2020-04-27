@@ -26,5 +26,43 @@ Lesson Outline
  
  ------- SRD BF/DF -------
 1. Analog vs Digital Techniques for Beamforming (BF) and Direction Finding (DF)
+Week 1: Overview Fundemental EM concepts
+Lab 1: Demonstration and preperation
+Week 2: Overview Fundemental Comm/DSP concepts 
+Lab 2:  Intro to Python and GNU Radio
+
 2. Overview of Software Defined Radios for Digital BF/DF Applciations
-3. 
+Week 3: Building Blocks for Baseband BF
+Lab 3: Building a simple beamformer
+Week 4: Building Blocks for Baseband DF
+Lab 4: Building a simple beamformer
+
+3. Error
+Week 5: Detection and Estimation
+Lab 5: 
+Week 6: Noise and Coherence
+Lab 6:
+
+4. Algorthmic I
+Week 7: Steering Vectors
+Lab 7:
+Week 8: BF/DF Techniques
+Lab 8: 
+
+5. Algorthmic II
+Week 9: Syncronization
+Lab 9:
+Week 10: Covarience Matrix
+Lab 10:
+
+6. System-Level Interation
+Week 11: Error Estimation and Detection
+Lab 11:
+Week 12: Overview of Protocol Beamforming Methods
+Lab 12:
+
+7. System Challenge/Demonstration
+Week 13: Detection of Jammer
+Lab 13:
+Week 14: Null Steering
+Lab 14:
