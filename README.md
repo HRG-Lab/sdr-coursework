@@ -16,12 +16,9 @@ Lesson Outline
 ## Intro to SDR / Gnuradio
 
  * [Lesson 1](./Basics/Lesson1) - Getting Started / Installation
- * [Lesson 2](./Basics/Lesson2) - Gnuradio Basics / IQ mod/demod
- * [Lesson 3](./Basics/Lesson3) - Building an FM receiver
- * [Lesson 4](./Basics/Lesson4) - Sampling / Sample Rate
- * [Lesson 5](./Basics/Lesson5) - Digital modulation / QAM TX/RX
- * [Lesson 6](./Basics/Lesson6) - Writing an OOT Module
- * [Lesson 7](./Basics/Lesson7) - More complicated OOT Module
+ * [Lesson 2](./Basics/Lesson2) - Gnuradio Basics / DSP Basics
+ * [Lesson 3](./Basics/Lesson3) - Digital modulation / QAM TX/RX
+ * [Lesson 4](./Basics/Lesson4) - Writing an OOT Module
 
 ## Beamforming / Direction Finding with SDR
 
