@@ -3,9 +3,11 @@ sdr-getting-started
 
 Tutorials about software defined radios, and associated software / libraries
 
-This repository is split in to lessons intended to bring anyone up to speed with
-Software defined radios (SDRs) and software like gnuradio. Each lesson is a
-jupyter notebook with relevant documentation, references, and screenshots.
+This repository contains the course material for Penn State's EE5XX, as well as
+a basic introduction to gnuradio for anyone looking to get up and running
+quickly. Each lesson in the Intro to SDR is a jupyter notebook with relevant
+documentation, references, and screenshots. The material for the course is split
+into 7 units, each of which cover a two week period.
 
 This tutorial was written with gnuradio gr-maint branch, version 3.8 and uhd
 version 3.5
