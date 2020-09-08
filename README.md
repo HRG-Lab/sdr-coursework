@@ -1,4 +1,4 @@
-sdr-getting-started
+About sdr-coursework
 ===================
 
 Tutorials about software defined radios, and associated software / libraries
